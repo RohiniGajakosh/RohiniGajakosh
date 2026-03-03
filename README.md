@@ -42,13 +42,13 @@ Created automated pipelines for build, test, and deployment.
 
 ## 📊 GitHub Stats
 
-<p align="left">
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RohiniGajakosh&show_icons=true&theme=github_dark)
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RohiniGajakosh&show_icons=true&theme=default"/>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RohiniGajakosh&layout=compact&theme=github_dark)
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RohiniGajakosh&layout=compact"/>
+## 📈 Contribution Graph
 
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RohiniGajakosh&theme=github-dark)
 
 ## 🤝 Connect With Me
 
