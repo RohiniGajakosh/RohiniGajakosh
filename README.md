@@ -17,7 +17,7 @@
 AWS  
 
 **DevOps Tools**  
-Docker • Terraform  • GitHub Actions • Jenkins  
+Docker • Terraform  • GitHub Actions 
 
 **Languages**  
 Bash • Python  
