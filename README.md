@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-- DevOps Engineer with 2 years of experience  
+- Passionate DevOps Engineer 
 - Skilled in building and automating cloud infrastructure  
 - Interested in scalable systems and cloud security  
 
